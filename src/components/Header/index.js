@@ -86,7 +86,7 @@ export default class Header extends Component {
                 textDecoration: "none"
               }}
             >
-              <img src={logo} alt="Level Up Logo" />
+              <img src={logo} alt="Logo" />
             </Link>
           </h1>
           <MainNav>
